@@ -97,7 +97,7 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("Cʟᴏsᴇ 🔒", callback_data = "close")
                 ],
                 [
-                    InlineKeyboardButton("🖥️ Join Us 🖥️", url="https://t.me/Moviedroidnew")
+                    InlineKeyboardButton("Join Our Main Channel", url="https://t.me/Moviedroidnew")
                 ]
             ]
         )
